@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is TSAuth
 ==============================================================================================================================
 
-The offical TSAuth Authentication
+The offical TSAuth Authentication and Authorization Github
 ---------------------------------
 
 This is a big Auth Project that started in February 2023 and it should become a competition to Firebase and Supabase
